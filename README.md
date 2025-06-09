@@ -1,4 +1,4 @@
-# DIO---Trilha-.NET---Explorando-a-linguagem-C-
+# DIO---Trilha-.NET---Explorando-a-linguagem-C#
 
 ### Sistema de hospedagem simples utilizando paradigma Orientação à Objetos.
 A arquitetura das classes estão disponíveis abaixo:
