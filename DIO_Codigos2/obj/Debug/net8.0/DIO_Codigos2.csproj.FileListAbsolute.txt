@@ -1,0 +1,14 @@
+C:\Workspace\DIO_Codigos2\DIO_Codigos2\bin\Debug\net8.0\DIO_Codigos2.exe
+C:\Workspace\DIO_Codigos2\DIO_Codigos2\bin\Debug\net8.0\DIO_Codigos2.deps.json
+C:\Workspace\DIO_Codigos2\DIO_Codigos2\bin\Debug\net8.0\DIO_Codigos2.runtimeconfig.json
+C:\Workspace\DIO_Codigos2\DIO_Codigos2\bin\Debug\net8.0\DIO_Codigos2.dll
+C:\Workspace\DIO_Codigos2\DIO_Codigos2\bin\Debug\net8.0\DIO_Codigos2.pdb
+C:\Workspace\DIO_Codigos2\DIO_Codigos2\obj\Debug\net8.0\DIO_Codigos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\DIO_Codigos2\DIO_Codigos2\obj\Debug\net8.0\DIO_Codigos2.AssemblyInfoInputs.cache
+C:\Workspace\DIO_Codigos2\DIO_Codigos2\obj\Debug\net8.0\DIO_Codigos2.AssemblyInfo.cs
+C:\Workspace\DIO_Codigos2\DIO_Codigos2\obj\Debug\net8.0\DIO_Codigos2.csproj.CoreCompileInputs.cache
+C:\Workspace\DIO_Codigos2\DIO_Codigos2\obj\Debug\net8.0\DIO_Codigos2.dll
+C:\Workspace\DIO_Codigos2\DIO_Codigos2\obj\Debug\net8.0\refint\DIO_Codigos2.dll
+C:\Workspace\DIO_Codigos2\DIO_Codigos2\obj\Debug\net8.0\DIO_Codigos2.pdb
+C:\Workspace\DIO_Codigos2\DIO_Codigos2\obj\Debug\net8.0\DIO_Codigos2.genruntimeconfig.cache
+C:\Workspace\DIO_Codigos2\DIO_Codigos2\obj\Debug\net8.0\ref\DIO_Codigos2.dll
